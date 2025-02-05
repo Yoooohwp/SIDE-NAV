@@ -20,7 +20,7 @@ body {
 }
 
 .sidebar h2 {
-    color: light blue;
+    color: orange;
     text-align: center;
     font-size: 20px;
     margin-bottom: 15px;
@@ -46,7 +46,7 @@ body {
 }
 
 .sidebar ul li.active a {
-    background-color: light blue;
+    background-color: red;
 }
 
 .sidebar ul li a:hover {
